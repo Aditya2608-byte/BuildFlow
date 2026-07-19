@@ -7,7 +7,7 @@ const genAI = new GoogleGenerativeAI(
 
 export async function generateImplementation(selectedNode, details) {
   const model = genAI.getGenerativeModel({
-    model: "gemini-2.5-flash",
+    model: "gemini-3.5-flash",
   });
 
   const prompt = `
