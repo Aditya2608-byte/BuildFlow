@@ -109,7 +109,7 @@ BuildFlow/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Aditya-2608/BuildFlow.git
+git clone https://github.com/Aditya2608-byte/BuildFlow.git
 cd BuildFlow
 ```
 
@@ -142,8 +142,8 @@ npm run build
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/Aditya-2608">
-        <img src="https://github.com/Aditya-2608.png" width="100px;" alt="Aditya"/><br />
+      <a href="https://github.com/Aditya2608-byte">
+        <img src="https://github.com/Aditya2608-byte.png" width="100px;" alt="Aditya"/><br />
         <sub><b>Aditya</b></sub>
       </a><br />
       👑 Project Owner & Lead Developer
