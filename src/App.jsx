@@ -149,7 +149,7 @@ function App() {
       setCurrentView("workspace");
     } catch (error) {
       console.error(error);
-      alert("Failed to generate architecture.");
+      alert(`Failed to generate architecture: ${error.message || error}`);
     } finally {
       setIsLoading(false);
     }
